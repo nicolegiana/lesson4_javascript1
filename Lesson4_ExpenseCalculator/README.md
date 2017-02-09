@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 8, 2017
 
 ### Student Name:  
-(First and Last Name)
+Nicole Alvarez
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The assignment consisted of creating an expense calculator using differnt variables and functions on a cloud9 workspace and then pushing it to Github.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://nicolegiana.github.io/lesson4_javascript1/Lesson4_ExpenseCalculator/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to create identifiers either with camel casing or underscore notation.
+2. I learned how to use and format objects and methods.
+3. I learned how to use assignment operators.
